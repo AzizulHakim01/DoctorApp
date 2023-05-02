@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Vina+Sans&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Bruno Ace SC', cursive;
+}
+
+.spinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.label{
+  font-size: 30px;
+}
